@@ -1,0 +1,4 @@
+pandas
+nltk
+rank_bm25
+sentence-transformers
